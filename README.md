@@ -17,6 +17,3 @@ For more information about me and my achievements, you can visit [my website](ht
 ## 📫 Contacts: 
 - [Linkedin](https://www.linkedin.com/in/zamdimon/)
 - E-mail: zamdmytro@gmail.com
-- [Facebook](https://www.facebook.com/zamdimon)
-- Telegram: @ZamDimon
-- Skype: dzaharok

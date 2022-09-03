@@ -2,15 +2,10 @@
 👋 Hello!
 I am Dmytro Zakharov. 
 
-Currently, I am the Ukraine Global Scholars 501(c)(3) finalist and Karazin National University student. 
-My main interests are Programming, Game Development, and Physics. 👀
+Currently, I am the student at V. N. Karazin National University, Backend developer at Distributed Lab and Ukraine Global Scholars 501 finalist. 
+My main interests are Programming, Game Development, Machine Learning, and Mathematics. 👀
 
-During my school years, 
-I have participated in numerous Olympiads and tournaments in Physics on national and international levels.
-However, I am not a pure physicist. 
-Before my Olympiad career I enjoyed creating games and programming in general. 
-My first game project, although insanely simple, I did when I was a 4th-grade student. 
-Since then, I have further developed my programming skills in parallel with studying Physics, trying different fields, tools, and languages.
+Learned a huge variety of different programming languages and technologies: Golang for developing backend microservices, C# (Unity, XNA Game Studio), Python for Machine Learning projects, C++ (OpenGL), C, and even Fortran :)
 
 For more information about me and my achievements, you can visit [my website](https://zakharov.netlify.app).
 

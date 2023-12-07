@@ -1,4 +1,4 @@
-## :person_curly_hair: About me: 
+## 🧔 About me: 
 👋 Hello!
 I am Dmytro Zakharov. 
 

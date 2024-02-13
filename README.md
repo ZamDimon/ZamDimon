@@ -3,7 +3,7 @@
 
 I am Dmytro Zakharov, [**V. N. Karazin National University**](https://karazin.ua/en/) student, a Backend developer at [**Distributed Lab**](https://distributedlab.com/), and a [**Ukraine Global Scholars**](https://www.ugs.foundation/) 501 finalist. My main interests are Web and Game Development, Machine Learning, and Mathematics with Physics. 👀
 
-For more information about me and my achievements, visit [my website](https://zakharov.netlify.app) 🎨.
+For more information about me and my achievements, visit [my website](https://zamdimon.github.io) 🎨.
 
 # 💪 Skills
 

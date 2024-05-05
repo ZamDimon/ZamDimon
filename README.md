@@ -1,7 +1,7 @@
 # 🧔 About me: 
 👋 Welcome to my _GitHub_ Repository!
 
-I am Dmytro Zakharov, [**V. N. Karazin National University**](https://karazin.ua/en/) student, a Backend developer at [**Distributed Lab**](https://distributedlab.com/), and a [**Ukraine Global Scholars**](https://www.ugs.foundation/) 501 finalist. My main interests are Web and Game Development, Machine Learning, and Mathematics with Physics. 👀
+I am Dmytro Zakharov, [**V. N. Karazin National University**](https://karazin.ua/en/) student majoring in _Applied Mathematics_, R&D Engineer at [**Distributed Lab**](https://distributedlab.com/), and a [**Ukraine Global Scholars**](https://www.ugs.foundation/) 501 finalist. My main interests are Deep Learning, Applied Cryptography, Web and Game Development, and Mathematics. 👀
 
 For more information about me and my achievements, visit [my website](https://zamdimon.github.io) 🎨.
 

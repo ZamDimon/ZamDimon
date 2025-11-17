@@ -1,13 +1,13 @@
 # 🧔 About me: 
 👋 Welcome to my _GitHub_ Repository!
 
-I am Dmytro Zakharov, [**V. N. Karazin National University**](https://karazin.ua/en/) student majoring in _Applied Mathematics_, R&D Engineer at [**Distributed Lab**](https://distributedlab.com/), and a [**Ukraine Global Scholars**](https://www.ugs.foundation/) 501 finalist. My main interests are Deep Learning, Applied Cryptography, Web and Game Development, and Mathematics. 👀
+I am Dmytro Zakharov, [**Kyiv School of Economics**](https://kse.ua/) student majoring in _Pure Mathematics_ and R&D Engineer at [**Distributed Lab**](https://distributedlab.com/). My main interests are Applied Cryptography (especially applied to Machine Learning Privacy), Deep Learning, Web and Game Development, and surely Mathematics. 👀
 
 For more information about me and my achievements, visit [my website](https://zamdimon.github.io) 🎨.
 
 # 💪 Skills
 
-While conducting AI/ML research, working as a backend developer, and studying at various STEM-oriented institutions, I have tried and explored various stacks and technologies, which you might explore below.
+While conducting crypto/AI/ML research, working as a backend developer, and studying at various STEM-oriented institutions, I have tried and explored various stacks and technologies, which you might explore below.
 
 ## 💻 Languages
 | Knowledge Level | Languages |
@@ -30,5 +30,5 @@ While conducting AI/ML research, working as a backend developer, and studying at
 
 # 📫 Contacts: 
 - [Linkedin](https://www.linkedin.com/in/zamdimon/)
-- [ResearchGate](https://www.researchgate.net/profile/Dmytro-Zakharov-3)
-- E-mail: zamdmytro@gmail.com
+- [Twitter (X)](https://x.com/ZamDmytro)
+- E-mail: dmytro.zakharov@distributedlab.com
